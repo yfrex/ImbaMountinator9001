@@ -1,6 +1,8 @@
 # ImbaMountinator9001
 An ez to use addon to favorite mounts for wow version 3.3.5 - by yfrex
 
+Also removes DBW auras when summoning a random mount ;>
+
 ## Showcase
 #### Screenshots
 ![Demo Screenshot](https://github.com/yfrex/ImbaMountinator9001/releases/download/screenshot_release/demo-screenshot.jpg)
