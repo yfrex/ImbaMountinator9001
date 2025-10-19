@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: ImbaMountinator9001
+## Author: yfrex
+## Version: 0.1
+## Notes: Select your favorite mounts! - by yfrex
+## SavedVariablesPerCharacter: ImbaMountinator9001DB
+ImbaMountinator9001.lua
