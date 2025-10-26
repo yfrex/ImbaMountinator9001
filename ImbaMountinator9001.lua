@@ -107,6 +107,8 @@ local FlyingMounts = {
     "Brutal Nether Drake",
     "Deadly Gladiator's Frost Wyrm",
     "Mimiron's Head",
+    "Blue Dragonhawk",
+    "Red Dragonhawk",
 
     -- Hippogryphs
     "Cenarion War Hippogryph",
