@@ -26,8 +26,6 @@ end
 SLASH_ImbaMountinator90011 = "/ImbaMountinator9001"
 SLASH_ImbaMountinator90012 = "/imbamountinator"
 SLASH_ImbaMountinator90013 = "/imbamount"
-SLASH_ImbaMountinator90014 = "/imba"
-SLASH_ImbaMountinator90015= "/im"
 SLASH_ImbaMountinator90016 = "/9001"
 SlashCmdList["ImbaMountinator9001"] = function(msg)
     debugPrint("ImbaMountinator9001 by yfrex", 0)
