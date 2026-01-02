@@ -476,7 +476,7 @@ function createMountingButtons()
                 debugPrint("macroIndex before creating: " .. macroIndex, 2)
                 if macroIndex == 0 then
                     if numGlobal == 36 then
-                        debugPrint("Cant drag-and-drop, because general macros are full. Please delete one general macro.", 1)
+                        debugPrint("Cant drag-and-drop, because general macros are full. Please delete one general macro and try again!", 0)
                     else
                         groundMacroID = CreateMacro(groundMacroName, 1, groundMacroContent, false)
                         debugPrint("Created macro, groundMacroId = " .. groundMacroID, 2)
@@ -539,7 +539,7 @@ function createMountingButtons()
                 local numGlobal, _ = GetNumMacros()
                 debugPrint("Total global macros: " .. numGlobal, 2)
                 if numGlobal == 36 then
-                    debugPrint("Cant drag-and-drop, because general macros are full. Please delete one general macro.", 1)
+                    debugPrint("Cant drag-and-drop, because general macros are full. Please delete one general macro and try again!", 0)
                 else
                     flyingMacroID = CreateMacro(flyMacroName, 1, flyMacroContent, false)
                     debugPrint("Created macro, flyingMacroId = " .. flyingMacroID, 2)
